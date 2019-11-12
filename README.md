@@ -3,9 +3,9 @@
 A application that allows you to find any repositories in any git. This aplication returns numbers of stars, language and forks.
 Users may refresh or remove the repositorie.
 
-![screenshot of the main page](./screenshot_Homepage.png)
-![screenshot of the error mensage](./screenshot_Error.png)
-![screenshot of the main page](./screenshot_Repositories.png)
+![screenshot of the main page](./Screenshot_Homepage.png)
+![screenshot of the error mensage](./Screenshot_Error.png)
+![screenshot of the main page](./Screenshot_Repositories.png)
 
 ## How to start the app
 
